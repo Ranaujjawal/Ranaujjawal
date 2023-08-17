@@ -1,6 +1,8 @@
 # Hi, I'm Ujjawal Rana! 👋
+<p align="center">
+  <img src="https://github.com/Ranaujjawal.png" width="150" height="150" alt="Vinita's Profile Photo" style="border-radius: 50%;">
+</p>
 
-![Profile Picture](https://github.com/Ranaujjawal.png)
 
 
 I'm a passionate software developer with experience in C++, React, Node.js, HTML, CSS, MongoDB, and data structures/algorithms. Currently pursuing a Bachelor's degree in Computer Science and Engineering at NIT Agartala (Class of 2021-2025). 🎓
